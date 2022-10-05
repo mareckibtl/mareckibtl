@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mareckibtl
+- 👀 I’m interested in NBA, good food and now in coding ;)
+- 🌱 I’m currently learning front-end (HTML, CSS and JS)
+- 💞️ I’m want to start a job in new year... Let's goo :)
